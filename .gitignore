@@ -1,0 +1,5 @@
+.config/
+lightning_logs/
+.idea/
+__pycache__/
+*.ipynb
